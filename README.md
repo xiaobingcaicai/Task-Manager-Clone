@@ -1,2 +1,2 @@
 # Task-Manager-Clone
-a clone of windows task manger made in QT c++
+a clone of windows task manager made in QT c++
